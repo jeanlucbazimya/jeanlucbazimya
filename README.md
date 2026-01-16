@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jean Luc 
-- 👀 I’m interested in technology, recently looking into embedded systems and IoT
+- 👀 I'm a problem solver, and interested in how we can use technology to design real world solutions
 - 🌱 I’m currently majoring in Electronics Engineering and Minoring in Computer Science
 - 💞️ I’m looking to collaborate on different software and hardware projects, hit me up if you need someone to work with on bringing ideas to life!
 - 📫 How to reach me on Social Media. Connect with me on [LinkedIn](https://www.linkedin.com/in/jean-luc-bazimya-088553268). I'm always active 
